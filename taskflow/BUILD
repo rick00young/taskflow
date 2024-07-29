@@ -2,7 +2,7 @@ package(default_visibility = ["//visibility:public"])
 
 
 cc_library(
-    name = 'nlohmann',
+    name = 'taskflow',
     hdrs = glob([
         "*.h",
         "*/*.h",
